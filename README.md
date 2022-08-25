@@ -1,5 +1,5 @@
 # Tela Inicial
-![Inicial](https://user-images.githubusercontent.com/40778725/186783759-18bf3163-d87d-4621-a0cd-55b445a1b05a.png)
+![Inicial](https://user-images.githubusercontent.com/40778725/186783841-0b745d7a-df3f-49d1-ad0b-b3d58c573381.png)
 
 # Search Bar
 Aplicação tem como base criar uma search bar com auto complete
